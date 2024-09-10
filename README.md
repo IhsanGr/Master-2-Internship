@@ -1,2 +1,2 @@
-**EEG-based person identification**
+**EEG-based person identification**  
 In this project the objective is to perform multi-class classification on EEG data in order to assign them to their correct class (i.e subject's identity). Its goal is to bring concerns about user's privacy in the metaverse since VR begin to have the ability of recording EEG data. Various experiments have been considered to tackle the most effective one in the field of user recognition throughout their brain waves. Several questions can raise up in regards of this project and a lot of improvement or further researches can be made on this topic. If you have any question, please feel free to contact me at : ihsan.grichi@gmail.com
